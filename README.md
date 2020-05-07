@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/pjkpk.github.io/edit/maste
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[servlet](https://github.com/pjkpk.github.io/edit/master/servlet.md)
+[servlet](https://pjkpk.github.io/servlet)
 
 ### Markdown
 
