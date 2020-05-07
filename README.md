@@ -7,13 +7,13 @@
 ### [IOC容器](https://pjkpk.github.io/IOC容器)
 ### [Bean的作用域](https://pjkpk.github.io/Bean的作用域)
 ### [Spring boot](https://pjkpk.github.io/springboot)
-### [Spring MVC](https://pjkpk.github.io/Spring MVC原理)
+### [Spring MVC](https://pjkpk.github.io/SpringMVC原理)
 
 ## Java虚拟机
-### [垃圾收集](https://pjkpk.github.io/05_GC and Tuning)
+### [GC](https://pjkpk.github.io/05_GCandTuning)
 
 ## 数据库
-### [mysql](https://pjkpk.github.io/事务——mysql实现事务)
+### [Mysql实现事务](https://pjkpk.github.io/事务——mysql实现事务)
 
 ## 操作系统
 
